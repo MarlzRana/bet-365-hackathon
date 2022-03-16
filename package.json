@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MarlzRana/bet-365-hackathon/issues"
   },
-  "homepage": "https://github.com/MarlzRana/bet-365-hackathon#readme"
+  "homepage": "https://github.com/MarlzRana/bet-365-hackathon#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "socket.io-client": "^4.4.1",
+    "ws": "^8.5.0"
+  }
 }
