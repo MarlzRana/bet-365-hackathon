@@ -1,0 +1,19 @@
+{
+  "name": "bet-365-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarlzRana/bet-365-hackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarlzRana/bet-365-hackathon/issues"
+  },
+  "homepage": "https://github.com/MarlzRana/bet-365-hackathon#readme"
+}
